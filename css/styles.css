@@ -11,8 +11,8 @@ body {
     background: #FBFAEE;
 }
 
-content-wrap {
-    width: 950px; 
+.content-wrap {
+    max-width: 950px; 
     margin: 0 auto;
 }
 .flowLeft {
