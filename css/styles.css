@@ -7,6 +7,23 @@
 
 /* Global styles 
 ------------------------------------*/
+.wrapper {
+  width: 400px;
+}
+.box {
+  float: left;
+  width: 200px;
+  height: 100px;
+  /* padding: 20px; */
+  /* border: 1px solid black; */
+}
+.box1 {
+  background: lightblue;
+}
+.box2 {
+  background: lightgreen;
+}
+
 body {
     background: #FBFAEE;
     margin: 0;
